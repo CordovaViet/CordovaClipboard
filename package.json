@@ -1,0 +1,18 @@
+{
+  "name": "cordova-clipboard",
+  "version": "1.0.0",
+  "description": "Cordova Clipboard",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CordovaViet/CordovaClipboard.git"
+  },
+  "author": "CordovaClipboard",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CordovaViet/CordovaClipboard/issues"
+  },
+  "homepage": "https://github.com/CordovaViet/CordovaClipboard#readme"
+}
